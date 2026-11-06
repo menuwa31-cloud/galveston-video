@@ -1,0 +1,72 @@
+{
+ "source": "estimated from silence gaps in voiceover.mp3 (no speech-to-text model reachable); word times by proportion",
+ "duration": 65.41,
+ "sentences": [
+  {
+   "i": 1,
+   "text": "In 1900, a hurricane drowned Galveston, Texas, and killed at least six thousand people.",
+   "start": 0.0,
+   "end": 6.81
+  },
+  {
+   "i": 2,
+   "text": "A board of three engineers was asked how to stop it happening again.",
+   "start": 6.86,
+   "end": 11.33
+  },
+  {
+   "i": 3,
+   "text": "So they built a concrete seawall, seventeen feet high, with a curve to throw waves back up.",
+   "start": 11.38,
+   "end": 18.35
+  },
+  {
+   "i": 4,
+   "text": "But a wall was not enough, because the town behind it still sat low.",
+   "start": 18.4,
+   "end": 23.49
+  },
+  {
+   "i": 5,
+   "text": "Then they decided to raise the town itself, about five hundred blocks, by up to seventeen feet.",
+   "start": 23.54,
+   "end": 30.75
+  },
+  {
+   "i": 6,
+   "text": "Whole streets stood on stilts, and people crossed town on wooden walkways high in the air.",
+   "start": 30.8,
+   "end": 37.29
+  },
+  {
+   "i": 7,
+   "text": "You see, the lifting was done by hand.",
+   "start": 37.34,
+   "end": 40.41
+  },
+  {
+   "i": 8,
+   "text": "Workers turned jackscrews, hundreds under one church alone.",
+   "start": 40.46,
+   "end": 44.96
+  },
+  {
+   "i": 9,
+   "text": "Dredges dug a canal and pumped in sand from the bay, over fifteen million cubic yards.",
+   "start": 45.01,
+   "end": 52.15
+  },
+  {
+   "i": 10,
+   "text": "So the sand rose, the town rose with it, and by 1910 the work was nearly done.",
+   "start": 52.2,
+   "end": 58.49
+  },
+  {
+   "i": 11,
+   "text": "In 1915 another huge hurricane hit, and this time Galveston survived.",
+   "start": 58.54,
+   "end": 63.55
+  }
+ ]
+}
